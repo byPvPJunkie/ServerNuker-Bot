@@ -15,3 +15,6 @@ Commands:
 !credits
 !ping
 !help
+
+Support Server:
+https://discord.gg/uHhNurrmBa
