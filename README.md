@@ -1,5 +1,5 @@
 # ServerNuker Bot
-The best discord server for clearing your server.
+The best discord bot for clearing your server.
 https://www.servernuker.tk
 
 # Invite
